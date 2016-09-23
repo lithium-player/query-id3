@@ -1,0 +1,14 @@
+[package]
+authors = ["David Barnett <david@barnett.net.nz>"]
+name = "liquery-id3"
+version = "0.1.0"
+
+[dependencies]
+id3 = "0.1.10"
+
+[dependencies.liquery]
+git = "https://github.com/lithium-player/query"
+optional = false
+
+[features]
+unstable = []
