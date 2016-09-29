@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/lithium-player/query-id3.svg?branch=master)](https://travis-ci.org/lithium-player/query-id3)
 [![Coverage Status](https://coveralls.io/repos/github/lithium-player/query-id3/badge.svg?branch=master)](https://coveralls.io/github/lithium-player/query-id3?branch=master)
+[![Clippy Linting Result](https://clippy.bashy.io/github/lithium-player/query-id3/master/badge.svg)](https://clippy.bashy.io/github/lithium-player/query-id3/master/log)
 
 A query interface built using the [ID3](https://crates.io/crates/id3) crate.
 
